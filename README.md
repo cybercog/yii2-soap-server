@@ -27,8 +27,7 @@ to the `require` section of your `composer.json` file.
 Usage
 -----
 
-You need to add [[mongosoft\soapserver\Action]] to web controller.
-Note, In a service class, a remote invokable method must be a public method with a doc
+You need to add [[mongosoft\soapserver\Action]] to web controller.  Note, In a service class, a remote invokable method must be a public method with a doc
 comment block containing the '@soap' tag.
 
 ```php
